@@ -1,4 +1,7 @@
 # PAR-CLIP Analysis
+![R](https://img.shields.io/badge/R-4.4.1-lightblue)
+![HPC](https://img.shields.io/badge/Cluster-PowerSlurm-green)
+![TAU](https://img.shields.io/badge/Institute-Tel%20Aviv%20University-darkblue)
 
 This repository contains scripts for processing, analyzing, and visualizing PAR-CLIP (Photoactivatable Ribonucleoside-Enhanced Crosslinking and Immunoprecipitation) data.  
 The workflows focus on **k-mer enrichment**, **RNA-binding site analysis**, and **visualization of binding intensity** for RNA-binding proteins.
