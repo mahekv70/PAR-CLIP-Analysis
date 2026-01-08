@@ -11,7 +11,7 @@ The analysis is intended for **publication-quality visualization** of RNA–prot
 
 ---
 
-## 📁 Repository Contents
+## Repository Contents
 
 | File | Description |
 |------|------------|
@@ -19,7 +19,7 @@ The analysis is intended for **publication-quality visualization** of RNA–prot
 
 ---
 
-## 🧬 Dependencies
+## Dependencies
 
 ### R packages
 
